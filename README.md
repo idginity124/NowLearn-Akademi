@@ -1,67 +1,30 @@
-<div align="center">
-
-<img src="assets/cover.svg" width="840" alt="NowLearn Akademi — Her gün biraz daha ileri. İngilizce kelime öğrenimini oyunlaştıran mobil uygulama.">
-
-<h1>NowLearn Akademi</h1>
-<p><strong>Kelime öğren. Pratik yap. İlerle.</strong></p>
-<p>İngilizce kelime öğrenimini oyunlar, dinleme ve günlük pratikle buluşturan mobil uygulama.</p>
-
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=black" alt="Android">
-</p>
-
-<p><a href="https://apps.apple.com/tr/app/now-learn-akademi/id6803083436">App Store’dan indir</a> &nbsp; · &nbsp; <a href="https://play.google.com/store/apps/details?id=com.lingopark.app">Google Play’den indir</a> &nbsp; · &nbsp; <a href="https://nowlearnakademi.com/">NowLearn Akademi web sitesi</a></p>
-
-<p><a href="#uygulamadan-goruntuler">Ekran görüntüleri</a> &nbsp; · &nbsp; <a href="https://www.ekrembulgan.com">Portfolyo</a> &nbsp; · &nbsp; <a href="https://linkedin.com/in/ekrembulgan">İletişim</a></p>
+<p align="center"><a href="README.md">English</a> &nbsp; / &nbsp; <a href="README.tr.md">Türkçe</a></p>
+<p align="center"><img src="assets/readme-hero.en.svg" width="840" alt="NowLearn Akademi"></p>
+<p align="center"><a href="https://apps.apple.com/tr/app/now-learn-akademi/id6803083436">App Store</a> &nbsp; / &nbsp; <a href="https://play.google.com/store/apps/details?id=com.lingopark.app">Google Play</a> &nbsp; / &nbsp; <a href="https://nowlearnakademi.com/">Website</a></p>
 
 <br>
-
-<p>Bu uygulamayı bir şirket için geliştirdim. Bu depo, geliştirme çalışmamı ve uygulamanın kullanıcı deneyimini tanıtmak amacıyla hazırlanmıştır.</p>
-<p><strong>Kaynak kodu ve uygulama paketleri bu depoda paylaşılmamaktadır.</strong></p>
-
-<h2>Öğrenmeyi günlük bir alışkanlığa dönüştürmek</h2>
-
-<p>Kelime oyunları, çoktan seçmeli testler, dinleme alıştırmaları ve okuma parçalarıyla farklı biçimlerde pratik yapmayı amaçlar. Seviye seçimi, XP, rozetler ve günlük seri takibi ilerlemeyi görünür kılar.</p>
-
-<table align="center">
-<tr><th>Kelime pratiği</th><th>Dinleme ve okuma</th><th>İlerleme takibi</th></tr>
-<tr><td align="center">Kelime avı, test ve zamana karşı oyunlar</td><td align="center">Dinleme testleri ve okuma parçaları</td><td align="center">XP, rozetler ve günlük seri</td></tr>
-<tr><th>Hesap ve ilerleme</th><th>Seviyeye göre çalışma</th><th>Görünüm</th></tr>
-<tr><td align="center">Profil, favoriler ve bulutta saklanan ilerleme</td><td align="center">A1–C1 seviyelerine yönelik içerikler</td><td align="center">Karanlık tema ve mobil odaklı arayüz</td></tr>
-</table>
-
-<a name="uygulamadan-goruntuler"></a>
-<h2>Uygulamadan görüntüler</h2>
-<p><sub>Görseller Google Play tanıtım sayfasından alınmıştır ve eski “Lingo Park” adını içerebilir. Projenin güncel adı NowLearn Akademi’dir; mağazadaki sürümün görünümü değişebilir.</sub></p>
-
-<table align="center">
-<tr><th>Ana ekran</th><th>Oyuncu kartı</th><th>Kelime oyunu</th></tr>
-<tr><td><img src="assets/screenshots/store-1.webp" width="240" alt="Ana ekran ve oyun modları"></td><td><img src="assets/screenshots/store-2.webp" width="240" alt="Oyuncu kartı ve ilerleme"></td><td><img src="assets/screenshots/store-3.webp" width="240" alt="Kelime öğrenme oyunu"></td></tr>
-</table>
-
+<p align="center">An English learning app I developed for a company using Flutter.<br>Word games, listening and reading exercises turn daily practice into a habit.</p>
+<p align="center"><sub>Portfolio showcase · Application source and packages are not included</sub></p>
+<h2 align="center">Practice in different ways</h2>
+<table align="center"><tr><th align="center">Learn</th><th align="center">Practice</th><th align="center">Progress</th></tr><tr><td align="center">Vocabulary games, quizzes and timed challenges.</td><td align="center">Listening exercises and reading passages.</td><td align="center">Levels, XP, badges, daily streaks and account progress.</td></tr></table>
+<h2 align="center">Inside the app</h2>
+<p align="center"><sub>Screenshots from the Google Play listing; some retain the earlier Lingo Park branding. The current product name is NowLearn Akademi.</sub></p>
+<p align="center"><a href="assets/screenshots/store-1.webp"><img src="assets/screenshots/store-1.webp" width="240" alt="NowLearn Akademi — store preview 1"></a> &nbsp; <a href="assets/screenshots/store-2.webp"><img src="assets/screenshots/store-2.webp" width="240" alt="NowLearn Akademi — store preview 2"></a> &nbsp; <a href="assets/screenshots/store-3.webp"><img src="assets/screenshots/store-3.webp" width="240" alt="NowLearn Akademi — store preview 3"></a></p>
 <details>
-<summary>Test, dinleme ve okuma ekranlarını göster</summary>
-<br>
-<table align="center">
-<tr><th>Test</th><th>Dinleme</th><th>Okuma</th></tr>
-<tr><td><img src="assets/screenshots/store-4.webp" width="240" alt="Çoktan seçmeli kelime testi"></td><td><img src="assets/screenshots/store-5.webp" width="240" alt="Dinleme alıştırması"></td><td><img src="assets/screenshots/store-6.webp" width="240" alt="Okuma parçası"></td></tr>
-</table>
+<summary>More app previews</summary>
+
+<p align="center"><a href="assets/screenshots/store-4.webp"><img src="assets/screenshots/store-4.webp" width="240" alt="NowLearn Akademi — store preview 4"></a> &nbsp; <a href="assets/screenshots/store-5.webp"><img src="assets/screenshots/store-5.webp" width="240" alt="NowLearn Akademi — store preview 5"></a> &nbsp; <a href="assets/screenshots/store-6.webp"><img src="assets/screenshots/store-6.webp" width="240" alt="NowLearn Akademi — store preview 6"></a></p>
+
 </details>
 
-<h2>Geliştirme</h2>
-<p><strong>Flutter · Dart · Isar · Flutter TTS · AudioPlayers</strong></p>
-<p>Mobil arayüz, yerel veri saklama, sesli kelime okuma ve oyunlaştırılmış öğrenme akışlarını bir araya getiren bir çalışma.</p>
+<h2 align="center">Development</h2>
+<p align="center"><strong>Flutter · Dart · Isar · Flutter TTS · AudioPlayers</strong></p>
+<p align="center">Mobile interface development, local data storage, spoken vocabulary and gamified learning flows.</p>
+<h2 align="center">About this repository</h2>
+<p align="center">This repository presents my development work. It does not provide source code or APK downloads and is not the company’s official support channel. Use the store and website links above for the product.</p>
+<p align="center">No open-source license is granted. Use of the content and visuals requires permission from the relevant rights holders.</p>
 
-<h2>Proje hakkında</h2>
-<p>Bu sayfa bir portfolyo sunumudur. Kaynak kodu ve APK dağıtımı yapmaz; uygulamaya yukarıdaki resmî mağaza bağlantılarından ulaşabilirsin. Şirket adına resmî destek veya duyuru kanalı değildir.</p>
-<p>İçerik ve görsellerin kullanımı için ilgili hak sahiplerinin izni gerekir. Bu depo açık kaynak lisansı sunmaz.</p>
-
-<hr>
-
-<img src="assets/training-arc.svg" width="840" alt="The Training Arc. Her proje bir seviye, her hata bir antrenman. Ekrem Bulgan.">
-
-<p><strong>Ekrem Bulgan</strong> · Mobil uygulama geliştirme<br><a href="https://www.ekrembulgan.com">ekrembulgan.com</a> &nbsp; · &nbsp; <a href="https://linkedin.com/in/ekrembulgan">LinkedIn</a></p>
-
-</div>
+<br>
+<p align="center"><img src="assets/training-arc.en.svg" width="840" alt="The Training Arc — Ekrem Bulgan"></p>
+<p align="center"><a href="https://www.ekrembulgan.com">Ekrem Bulgan</a> &nbsp; / &nbsp; <a href="https://linkedin.com/in/ekrembulgan">LinkedIn</a></p>
+<p align="center"><sub>Client project · Portfolio showcase</sub></p>
